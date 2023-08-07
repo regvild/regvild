@@ -17,5 +17,5 @@
 
 :mailbox: Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-ReginaVildanova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ReginaVild) 
-[![Mail.ru Badge](https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vrf1987@mail.ru)
+[![Mail.ru Badge](https://img.shields.io/badge/Mail.Ru-005FF.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vrf1987@mail.ru)
 
