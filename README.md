@@ -15,5 +15,5 @@
 
 Рада любому общению по предмету моего профиля. 
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ReginaVild) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vrf1987@mail.ru)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ReginaVildanova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ReginaVild) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vrf1987@mail.ru)
 
