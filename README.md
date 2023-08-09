@@ -3,12 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data analyst
 ------------
+* 🌍  I'm based in Ufa, Russia
 
 At the last place of work, I noticed how interesting it is for me to work in Excel in terms of analysis, automation, design. Due to personal circumstances, I decided to take a break from work in 2022 and during this period I took a Data Analyst course to understand and evaluate my interest in analysis, to gain skills to optimize my work. During my studies, I was inspired by innovation and how data analysis helps businesses earn money, and realized that I wanted to join this system. I am impressed by the idea in the analyst profession that, as well as working as a customer service manager, I can bring direct profit to the business, which is transparently expressed in measurable quantities. This profession gives you the opportunity to participate in important business projects. I like to observe, study, look for patterns and draw conclusions that change the object for the better, present the results. One of my key goals is self-development, improvement of professional skills and competence. I am glad to have any communication on the subject of my profile.
 
-* 🌍  I'm based in Ufa, Russia
 
-  
+ 
 * :mailbox: CONTACT ME AT:   
 [![Telegram Badge](https://img.shields.io/badge/-ReginaVildanova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ReginaVild)   
 [![Mail.ru Badge](https://img.shields.io/badge/Mail.Ru-005FF5.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vrf1987@mail.ru)
